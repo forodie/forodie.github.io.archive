@@ -1,0 +1,16 @@
+title: forodie # your name (or website title) here
+logo: "/images/logo.png?raw=true"  # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
+  German Utkin
+  <br>
+  Lobachevsky University, ITMM
+  <br><br>
+  Social networks and messengers: 
+  <br>
+  <a href="https://t.me/olithiumsunset">telegram</a>
+  <br>
+  <a href="https://vk.com/forodie">vk</a>
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
