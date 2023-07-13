@@ -1,4 +1,4 @@
-## Autor's site of German Utkin
+## Author's site of German Utkin
 
 ---
 
@@ -16,12 +16,16 @@
 
 ### GitHub repositories
 
-- [Project 1. Class Matrix](https://github.com/forodie/Class-Matrix-two-dimensional-array)
-- [Project 2](http://example.com/)
+- [Project 1. repositories](https://github.com/forodie/)
+- [Project 2. Test](http://example.com/)
 
 ---
 
-### My publications
+### Education
+Bachelor's degree "Applied Informatics"
+Lobachevsky State University of Nizhny Novgorod, ITMM.
+
+### Publications
 2022:
 1. Сидоров С.В., Смирнова Т.Г., Уткин Г.В. Отношения порядка в курсе дискретной математики // Математика в высшем образовании. № 20. 2022. С. 69-84.
 
