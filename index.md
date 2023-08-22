@@ -2,7 +2,7 @@
 
 ---
 
-## Test section. Example
+## Information for the student group №111ФИИТ111
 <!--
 [Hello world](/sample_page)
 -->
@@ -26,7 +26,8 @@
 ## Education
 
 Bachelor's degree "Applied Informatics"  
-Lobachevsky State University of Nizhny Novgorod, Institute of Information Technology, Mathematics and Mechanics.
+Lobachevsky State University of Nizhny Novgorod, 
+Institute of Information Technology, Mathematics and Mechanics.
 
 ## Publications
 
