@@ -3,28 +3,30 @@
 ---
 
 ## Test section. Example
-
+<!--
 [Hello world](/sample_page)
+-->
 <!--
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 -->
 
----
-[list of group students](/pdf/SpisokGroup.pdf)
+[Algorithms and complexity analysis of Algorithms](/alg_complexity)
 
 ---
+[Student progress sheet](https://docs.google.com/spreadsheets/d/1c2URTVu8V6kn-86q2IFgGwdn5WvpDIa3x7Az4bzB_AA/edit?usp=sharing)
 
-## GitHub repositories
+---
 
-- [Project 1. repositories](https://github.com/forodie/)
-- [Project 2. Test](http://example.com/)
+## GitHub
+
+- [Project 1. repositories](https://github.com/)
 
 ---
 
 ## Education
 
 Bachelor's degree "Applied Informatics"  
-Lobachevsky State University of Nizhny Novgorod, ITMM.
+Lobachevsky State University of Nizhny Novgorod, Institute of Information Technology, Mathematics and Mechanics.
 
 ## Publications
 
