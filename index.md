@@ -10,6 +10,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 -->
 [Группа ФИИТ-1](/Groups/FIIT-1/alg_complexity.md)
+
 [Группа ФИИТ-2](/Groups/FIIT-2/alg_complexity.md)
 
 ---
