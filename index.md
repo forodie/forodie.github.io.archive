@@ -9,25 +9,22 @@
 <!--
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 -->
-
-[Algorithms and complexity analysis of Algorithms](/alg_complexity)
-
----
-[Student progress sheet](https://docs.google.com/spreadsheets/d/1c2URTVu8V6kn-86q2IFgGwdn5WvpDIa3x7Az4bzB_AA/edit?usp=sharing)
+[Группа ФИИТ-1](/Groups/FIIT-1/alg_complexity.md)
+[Группа ФИИТ-2](/Groups/FIIT-2/alg_complexity.md)
 
 ---
-
+<!--
 ## GitHub
 
 - [Project 1. repositories](https://github.com/)
 
 ---
-
+-->
 ## Education
 
 Bachelor's degree "Applied Informatics"  
 Lobachevsky State University of Nizhny Novgorod,  
-Institute of Information Technology, Mathematics and Mechanics. 
+Institute of Information Technology, Mathematics and Mechanics.
 
 ## Publications
 
