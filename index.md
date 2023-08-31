@@ -9,9 +9,9 @@
 <!--
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 -->
-[Группа ФИИТ (все группы, 1-3)](/Groups/FIIT-1/alg_complexity.md)
+[Группы ФИИТ](/Groups/FIIT-1/alg_complexity.md)
 
-[Группа МАТЕМАТИКА](/Groups/MATH-23/Discrete Math.md)
+[Группа МАТЕМАТИКА](/Groups/MATH-23/DiscreteMath.md)
 
 ---
 <!--
