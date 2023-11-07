@@ -15,4 +15,33 @@ LaTeX (произносится как "латех") --- инструмент д
 - Выбор редактора для работы с tex файлами.
 
 Популярные дистрибутивы: MikTeX, TeX Live.
+
 Популярные редакторы: TeX Studio, TeXworks, TeXnic, vscode (с расширением "LaTeX Workshop").
+
+Попробовать можно онлайн на overleaf.com
+
+Начнем установку:
+1. Под Windows/Mac обычно ставят [MikTex](https://miktex.org/download), под Linux [TeX Live](https://www.tug.org/texlive/), под Mac [MacTeX](https://www.tug.org/texlive/). На сайтах представлен способ установки через консоль и обычным образом.
+2. Редактор можно выбрать любой, но советую [TeX Studio](https://www.texstudio.org/) или в vscode с расширением "LaTeX Workshops" для более продвинутых. В данных редакторах для удобства можно выбрать шаблоны, быстро находить специфические символы и обозначения, пользоваться сниппетами и другими гибкими настройками. 
+
+Всё необходимое на текущий момент установлено. Можно проверить корректность установки. Для этого создается main.tex в отдельной папке, в котором прописывается следующее содержимое:
+
+```
+\documentclass[12pt]{article}
+\begin{document}
+Hello world!
+$f(x) = x^2 + 1$ % math mode 
+\end{document}
+```
+
+После компиляции должен выйти результат в виде PDF файла в правом окне и в папке. 
+
+Для использования русского языка в файлах требуется настройка преамбулы. Подробнее об этом позднее, а пока обратимся к более подробным статьям и книжкам.
+
+## Полезное к прочтению
+1. [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+2. [Осваиваем LaTeX за 30 минут (на русском)](https://habr.com/ru/companies/ruvds/articles/574352/)
+3. [Как я пишу конспекты по математике на LaTeX в Vim](https://habr.com/ru/articles/445066/)
+4. [Львовский С. М. Набор и вёрстка в пакете LATEX. — 3-е изд. М.: МЦНМО, 2003.](https://old.mccme.ru//free-books//llang/newllang.pdf)
+5. [LaTeX в примерах](http://www.ccas.ru/voron/download/voron05latex.pdf)
+6. [detexify - поиск символов](https://detexify.kirelabs.org/classify.html)
