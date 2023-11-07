@@ -16,7 +16,7 @@ LaTeX (произносится как <<латех>>) --- инструмент 
 
 Популярные дистрибутивы: MikTeX, TeX Live.
 
-Популярные редакторы: TeX Studio, TeXworks, TeXnic, vscode (с расширением "LaTeX Workshop").
+Популярные редакторы: TeX Studio, TeXworks, TeXnic, vscode (с расширением << LaTeX Workshop>>).
 
 Попробовать можно онлайн на overleaf.com
 
