@@ -3,9 +3,9 @@
 ---
 
 ## Guide (раздел в разработке)
-[LaTeX][/Guide/Latex/LaTeX.md] (В разработке) 
-[C++][/Guide/Cpp/Cpp.md] (В разработке)
-[Python][/Guide/Python/Python.md] (В разработке) 
+[LaTeX](/Guide/Latex/LaTeX.md) (В разработке) 
+[C++](/Guide/Cpp/Cpp.md) (В разработке)
+[Python](/Guide/Python/Python.md) (В разработке) 
 ---
 
 ## Groups
