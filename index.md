@@ -3,7 +3,7 @@
 ---
 
 ## Guide (раздел в разработке)
-[LaTeX](/Guide/Latex/LaTeX.md) (В разработке) 
+[LaTeX](/Guide/Latex/LaTeX.md) (new files) 
 
 [C++](/Guide/Cpp/Cpp.md) (В разработке)
 
